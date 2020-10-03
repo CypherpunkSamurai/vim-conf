@@ -66,7 +66,7 @@ Plugin 'tacahiroy/ctrlp-funky'
 " Plugin 'preservim/nerdcommenter'
 
 " Jedi py
-Plugin 'davidhalter/jedi-vim'
+"Plugin 'davidhalter/jedi-vim'
 
 " Deocomplete Go
 " Plugin 'deoplete-plugins/deoplete-go'
@@ -147,7 +147,7 @@ Plugin 'ScrollColors'
 
 " Forest night
 " important!!
-"set termguicolors
+set termguicolors
 " the configuration options should be placed before `colorscheme forest-night`
 let g:forest_night_enable_italic = 1
 let g:forest_night_disable_italic_comment = 1
